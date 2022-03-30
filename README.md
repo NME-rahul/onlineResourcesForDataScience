@@ -1,2 +1,2 @@
 # onlineResourcesForDataScience
-these books are here for only study purpose
+these books are uploaded here for only study purpose
